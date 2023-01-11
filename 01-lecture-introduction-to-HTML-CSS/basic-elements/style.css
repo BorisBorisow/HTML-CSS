@@ -1,0 +1,18 @@
+h1 {
+    font-size: 42px;
+    color: green
+}
+
+#secondaryTitle {
+    background-color: black;
+    color: white;
+} 
+
+.text {
+    font-size: 25px;
+}
+
+
+.text.mainParagraph{
+    color: rgb(206, 140, 34);
+}
